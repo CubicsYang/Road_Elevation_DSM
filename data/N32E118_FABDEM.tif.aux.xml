@@ -1,0 +1,22 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="INSTITUTE">University of Bristol and Fathom</MDI>
+    <MDI key="TITLE">FABDEM v1-0: Forests And Buildings removed CopernicusDEM</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">1544.411132804391</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">441.36999511719</MDI>
+      <MDI key="STATISTICS_MEAN">42.460079794096</MDI>
+      <MDI key="STATISTICS_MEDIAN">nan</MDI>
+      <MDI key="STATISTICS_MINIMUM">-5.6799998283386</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">39.298996587755</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
